@@ -1,4 +1,0 @@
-Traduzione-OSSPDF
-=================
-
-Traduzione OSSPDF
